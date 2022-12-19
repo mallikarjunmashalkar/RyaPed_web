@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/RyaPed_web/static/js/main.55b6562d.chunk.js",
+    "main.js.map": "/RyaPed_web/static/js/main.55b6562d.chunk.js.map",
+    "runtime-main.js": "/RyaPed_web/static/js/runtime-main.266db6ab.js",
+    "runtime-main.js.map": "/RyaPed_web/static/js/runtime-main.266db6ab.js.map",
+    "static/js/2.19988283.chunk.js": "/RyaPed_web/static/js/2.19988283.chunk.js",
+    "static/js/2.19988283.chunk.js.map": "/RyaPed_web/static/js/2.19988283.chunk.js.map",
+    "index.html": "/RyaPed_web/index.html",
+    "static/js/2.19988283.chunk.js.LICENSE.txt": "/RyaPed_web/static/js/2.19988283.chunk.js.LICENSE.txt",
+    "static/media/benefits-wallet.png": "/RyaPed_web/static/media/benefits-wallet.ca534e77.png",
+    "static/media/payment.png": "/RyaPed_web/static/media/payment.e003a1cc.png",
+    "static/media/svg-1.svg": "/RyaPed_web/static/media/svg-1.c9c88a21.svg",
+    "static/media/svg-2.svg": "/RyaPed_web/static/media/svg-2.882a2cd5.svg",
+    "static/media/svg-3.svg": "/RyaPed_web/static/media/svg-3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.266db6ab.js",
+    "static/js/2.19988283.chunk.js",
+    "static/js/main.55b6562d.chunk.js"
+  ]
+}
